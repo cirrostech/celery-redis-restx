@@ -1,0 +1,4 @@
+flask-restx
+markupsafe==2.0.1
+celery 
+redis
